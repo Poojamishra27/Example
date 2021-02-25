@@ -1,2 +1,3 @@
 # Example
-This for Git Training
+This is for Git Training
+
